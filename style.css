@@ -1,0 +1,66 @@
+h1,h2,h3,h4{
+    margin:0;
+}
+*{
+    font-family:'Roboto', sans-serif;
+}
+
+body{
+    background-color: #f0f0f0;
+}
+
+h1{
+    color:#FF6A28;
+    font-size:20px ;
+    text-transform: uppercase;
+    font-weight: 700px;
+    margin: 0 26px 5px 0;
+}
+
+h2{
+   color: #61656D;
+   font-size: 16px;
+   margin-top: 5px;
+   font-weight: 400px;
+   margin-bottom: 14px;
+}
+
+.container{
+    background-color:white;
+    width: 798px;
+    height: 574px;
+    border-radius: 5px;    
+    padding: 20px 26px 12px 27px;
+    box-sizing: border-box;
+
+    margin: 24px 59px;
+}
+.alarm-icon{
+    width: 118px;
+    height: 85px;
+    background-color: #f0f0f0;
+    margin: 10px 9px 0 0;
+    border-radius: 5px;
+}
+.card-title{
+    color: #61656D;
+    font-weight: 400px;
+    text-transform: uppercase;
+    font-size: 14px;    
+}
+.card-time{
+    color: #FF6A28;
+    font-weight: 700px;
+    font-size: 14px;
+    text-transform: uppercase;
+}
+.alarm-time{
+    margin: 14px 49px 4.86px 49px;
+    
+}
+.card-info{
+    width: 61px;
+    height: 32px;
+    margin: 0 29px;
+    text-align: center;
+}
